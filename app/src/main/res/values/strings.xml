@@ -6,4 +6,7 @@
     <string name="logo">logo</string>
     <string name="result">Informe seus dados</string>
     <string name="clear">clear</string>
+    <string name="validate_wrong_patter">Formato inválido, digite novamente</string>
+    <string name="validate_type_weight">Por favor, digite o peso</string>
+    <string name="validate_type_height">Por favor, digite a altura</string>
 </resources>
